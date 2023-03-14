@@ -1,10 +1,10 @@
-title: "Tiralabra - 2023 periodi 3"
-entitle: "Data Structures Lab, 2023 period 3"
+title: "Tiralabra - 2023 periodi 4"
+entitle: "Data Structures Lab, 2023 period 4"
 email: ''
 description: "Helsingin yliopiston Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - kurssin kurssisivu"
 endescription: "Course page for the Data Structures Project course at the University of Helsinki"
-baseurl: '/2023_p3' # the subpath of your site, e.g. /blog
-url: https://tiralabra.github.io/2023_p3/ # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/2023_p4' # the subpath of your site, e.g. /blog
+url: https://tiralabra.github.io/2023_p4/ # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
